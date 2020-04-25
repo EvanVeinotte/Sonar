@@ -5,3 +5,4 @@ Both C++ code for Arduino and python code for Windows
 
 ## Youtube Video
 https://www.youtube.com/watch?v=CGwGBDRUhCA
+Keep in mind I was a small child when I created this.
